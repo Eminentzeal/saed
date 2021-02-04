@@ -1,0 +1,146 @@
+.container {
+  max-width: 950px;
+  
+}
+
+.section-two {
+  background: #179232;
+}
+
+.cfa-button {
+  padding-top: 1.5rem;
+}
+
+.choice {
+  text-align: center;
+  color: #fff;
+}
+
+.choice h5 {
+  margin: 2rem 0;
+}
+
+.padd {
+  margin-top: 0.5rem;  
+}
+
+.card-title {
+  text-align: center;
+  color:  #179232;
+  font-weight: 600;
+}
+
+.card-btn {
+  margin-bottom: 1rem;
+}
+
+.shadows {
+  box-shadow: 0px 5px 0px 1px rgba(0,0,0,0.3);
+}
+
+.shadows:hover {
+  box-shadow: 0px 0px 5px 0px rgba(0,0,0,.8);  
+}
+
+.landing-bg {
+  background: url(/assets/images/landing.jpg);
+  color: white;
+  text-align: center;
+  height: 25rem;
+}
+
+.fade-bg {
+  background-color: rgba(0, 0, 0, 0.6);
+  height: 30rem;
+}
+
+.landing-title {
+  margin: 0;
+  padding-top: 9rem;
+}
+
+.card-img-top {
+  height: 50%;
+}
+
+.col-p {
+  margin-top: 10%;
+}
+
+.card-footer {
+  padding: 0%;
+  color: #fff;
+}
+
+.sponsor-wrap {
+  text-align: center;
+  margin-top: 2rem;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  padding: 2rem 0;
+}
+
+.sponsor-title {
+  font-weight: 700;
+  font-size: 1rem;
+}
+
+.sp-logo-1 {
+  width: 5rem;
+  height: 4rem;
+  margin-right: 2rem;
+}
+
+.sp-logo-2 {
+  width: 4rem;
+  height: 4rem;
+  margin-right: 2rem;
+}
+
+.sp-logo-3 {
+  width: 5rem;
+  height: 5rem;
+}
+
+.footer-wrap {
+  background: rgba(1, 10, 3, 0.9);
+  display: flex;
+}
+
+.footer-wrap p {
+  font-size: 1rem;
+}
+
+.media,
+.commitment {
+  padding: 2rem;
+}
+.media-input {
+  margin: 0 0 1rem;
+}
+
+.media-input a {
+  color: #fff;
+}
+
+.button {
+  display: inline-block;
+  background: red;
+  margin: 0;
+  padding: 3px 20px;
+}
+
+.fab {
+  margin-right: 1rem;
+  font-size: 1.5rem;
+}
+
+.footer-wrap h5 {
+  font-weight: 700;
+  font-size: 1rem;
+  text-transform: uppercase;
+}
+
+.navigate {
+  padding: 2rem;
+}
