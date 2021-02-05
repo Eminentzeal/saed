@@ -106,40 +106,36 @@
   background: rgba(1, 10, 3, 0.9);
 }
 
+.footer-wrap .row {
+  padding: 2rem;
+}
+
+
 .footer-wrap p {
-  font-size: 1rem;
-}
-
-.media,
-.commitment {
-  /* padding: 2rem; */
-}
-.media-input {
-  /* margin: 0 0 1rem; */
-}
-
-.media-input a {
+  font-size: 0.8rem;
   color: #fff;
+}
+
+.media-input {
+  margin: 0 0 1rem;
 }
 
 .button {
   display: inline-block;
   background: red;
   margin: 0;
-  /* padding: 3px 20px; */
+  padding: 3px 20px;
 }
 
 .fab {
   margin-right: 1rem;
   font-size: 1.5rem;
+  color: #fff;
 }
 
 .footer-wrap h5 {
   font-weight: 700;
   font-size: 1rem;
   text-transform: uppercase;
-}
-
-.navigate {
-  padding: 2rem;
+  color: #fff;
 }
