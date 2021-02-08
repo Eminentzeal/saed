@@ -140,7 +140,7 @@
   color: #fff;
 }
 
-@media only screen and (min-width: 769px) {
+@media only screen and (max-width: 768px) {
   .commitment,
   .navigate {
     display: none;
